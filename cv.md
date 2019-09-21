@@ -8,19 +8,15 @@
 
 ### ***Summary***
 
-- I want to learn and create.
+- I want to be web developer.
 
 ### ***Skills***
-- HTML;
-- CSS(Less, Scss);
-- SQL;
-- Pug;
-- WebPack;
-- Java
-
-### ***Code examples***
-
-### ***Experience***
+- Basic HTML;
+- Basic CSS(Less, Scss);
+- Basic SQL;
+- Basic Pug;
+- Basic WebPack;
+- Basic Java
 
 ### ***Education***
 - [Codecademy](https://www.codecademy.com/profiles/Dmitrii-IUskov)
